@@ -29,6 +29,14 @@
 
 
 
+## 
+* Si maven proyecto tiene version `1.0-SNAPSHOT`, cuando se hace un cambio en codigo, jar siempre se va a generar de nuevo.
+  Si maven proyecto tiene version `1.0`, cuando se hace un cambio en codigo, jar no se va a generar de nuevo.
+
+
+
+
+
 ## Articles.
 
 
